@@ -66,7 +66,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Connect to ESP32 & Send Alerts"
+                    android:text="Connect to ESP32 &amp; Send Alerts"
                     android:textSize="14sp"
                     android:textColor="@color/white"
                     android:alpha="0.9" />
