@@ -31,3 +31,10 @@
     <color name="text_secondary">#FF757575</color>
     <color name="text_hint">#FFBDBDBD</color>
 </resources>
+    <!-- Material Colors for Theme Compatibility -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+</resources>
